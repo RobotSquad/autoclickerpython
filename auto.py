@@ -6,4 +6,4 @@ while True:
     break
   else:
     mouse.click('left')
-    time.sleep(
+    time.sleep(0.001)
